@@ -2,3 +2,8 @@ Fazendo desafio de Git/Github
 Foco no DB
 
 Será que deu certo?
+>>>>>>> =======
+Agora teste de pull para verificar e testar a sincronização.
+>>>>>>> 7f58e4c2962e46d8f0b065a4273d2d49adf1e4bb
+
+Não vou apagar para lembrar dos símbolos
