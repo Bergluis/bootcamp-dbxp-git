@@ -1,2 +1,4 @@
 Fazendo desafio de Git/Github
 Foco no DB
+
+Agora teste de pull para verificar e testar a sincronização.
